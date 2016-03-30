@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (0411 homework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  正在略過... (未偵測到相關變更)
+  Source.cpp
+  0411 homework.vcxproj -> D:\Moyege\Work\10402 C programing\CPP\0418 homework\Debug\Fibonacci (Function).exe
