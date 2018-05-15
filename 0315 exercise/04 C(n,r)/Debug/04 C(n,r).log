@@ -1,1 +1,6 @@
-﻿  04 C(n,r).vcxproj -> D:\Moyege\Work\10402 C programing\CPP\0315 exercise\Debug\04 Combination.exe
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0315 exercise\04 c(n,r)\source.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+d:\moyege\work\10402 c programing\c_practice\0315 exercise\04 c(n,r)\source.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  04 C(n,r).vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0315 exercise\Debug\04 Combination.exe

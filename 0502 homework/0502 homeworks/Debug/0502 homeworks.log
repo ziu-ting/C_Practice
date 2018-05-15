@@ -1,4 +1,0 @@
-﻿  Source.cpp
-d:\moyege\work\10402 c programing\cpp\0502 homeworks\0502 homeworks\source.cpp(11): error C2144: 語法錯誤: 'int' 必須在 ';' 之後
-d:\moyege\work\10402 c programing\cpp\0502 homeworks\0502 homeworks\source.cpp(12): error C2664: 'int printf(const char *const ,...)': 無法將引數 1 從 'int [110]' 轉換為 'const char *const '
-  d:\moyege\work\10402 c programing\cpp\0502 homeworks\0502 homeworks\source.cpp(12): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換

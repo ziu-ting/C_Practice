@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0524 practice\01\source.cpp(12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  01.vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0524 practice\Debug\01.exe

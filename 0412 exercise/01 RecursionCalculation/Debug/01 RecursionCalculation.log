@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0412 exercise\01 recursioncalculation\source.cpp(22): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\moyege\work\10402 c programing\c_practice\0412 exercise\01 recursioncalculation\source.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+d:\moyege\work\10402 c programing\c_practice\0412 exercise\01 recursioncalculation\source.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+d:\moyege\work\10402 c programing\c_practice\0412 exercise\01 recursioncalculation\source.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+d:\moyege\work\10402 c programing\c_practice\0412 exercise\01 recursioncalculation\source.cpp(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  01 RecursionCalculation.vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0412 exercise\Debug\01 RecursionCalculation.exe

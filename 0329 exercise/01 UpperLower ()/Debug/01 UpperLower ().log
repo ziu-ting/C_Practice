@@ -1,9 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (01 UpperLower (HanderFile).vcxproj, 01 UpperLower_HanderFile.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  toUppercase.cpp
-  Source.cpp
-d:\moyege\work\10402 c programing\cpp\0329 exercise\01 upperlower ()\source.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
-  transfer.h
-  toLowercase.cpp
-  正在產生程式碼...
-  01 UpperLower ().vcxproj -> D:\Moyege\Work\10402 C programing\CPP\0329 exercise\Debug\01 UpperLower HanderFile.exe

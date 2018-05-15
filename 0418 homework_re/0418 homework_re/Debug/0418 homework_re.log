@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0418 homework_re\0418 homework_re\source.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  Recursion.cpp
+  NonRexursion.cpp
+  正在產生程式碼...
+  0418 homework_re.vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0418 homework_re\Debug\Fibonacci.exe

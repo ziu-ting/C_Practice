@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 無法解析的外部符號 _main 在函式 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被參考
+D:\Moyege\Work\10402 C programing\C_Practice\0322 exercise\Debug\04 GuessNumber 1A2B.exe : fatal error LNK1120: 1 個無法解析的外部符號

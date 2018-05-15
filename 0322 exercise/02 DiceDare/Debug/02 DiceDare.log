@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0322 exercise\02 dicedare\source.cpp(34): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\moyege\work\10402 c programing\c_practice\0322 exercise\02 dicedare\source.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+d:\moyege\work\10402 c programing\c_practice\0322 exercise\02 dicedare\source.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  02 DiceDare.vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0322 exercise\Debug\02 DiceDare.exe

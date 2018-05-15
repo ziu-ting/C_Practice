@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\moyege\work\10402 c programing\c_practice\0510 exercise\01\source.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+  01.vcxproj -> D:\Moyege\Work\10402 C programing\C_Practice\0510 exercise\Debug\01.exe
